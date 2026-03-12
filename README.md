@@ -13,10 +13,29 @@
 
 ## Артефакты
 
-- ✅ **Тест-анализ** — `analysis/overview.md`
-- ✅ **Классы эквивалентности и граничные значения** — папка `ce-gz/`
-- ✅ **Тест-кейсы** — папка `testcases/`
-- 🐞 **Баг-репорты** — папка `bugreports/`
+- ✅ **Тест-анализ**
+  - 📄 [`analysis/overview.md`](analysis/overview.md)
+  - Вкладка Google Sheets: [«Этап 1. Тест-анализ»](https://docs.google.com/spreadsheets/d/1ku3De2DZUbj_QlJKdQU7wEh0N3EIILJ8D6_vwkshmQU/edit?gid=1610041137)
+
+- ✅ **КЭ и ГЗ**
+  - 📄 [`ce-gz/time-fields.md`](ce-gz/time-fields.md)
+  - 📄 [`ce-gz/address-fields.md`](ce-gz/address-fields.md)
+  - 📄 [`ce-gz/routes-and-time-intervals.md`](ce-gz/routes-and-time-intervals.md)
+  - Вкладка Google Sheets: [«Этап 2. КЭ и ГЗ»](https://docs.google.com/spreadsheets/d/1ku3De2DZUbj_QlJKdQU7wEh0N3EIILJ8D6_vwkshmQU/edit?gid=1304990855)
+
+- ✅ **Тест-кейсы**
+  - 📁 [`testcases/`](testcases)
+  - Вкладка Google Sheets: [«Этап 3. Тест-кейсы»](https://docs.google.com/spreadsheets/d/1ku3De2DZUbj_QlJKdQU7wEh0N3EIILJ8D6_vwkshmQU/edit?gid=1524919368)
+  - Примеры групп:
+    - [`TC-hours.md`](testcases/TC-hours.md) — валидация поля **Часы** (`T1–T24`)
+    - [`TC-minutes.md`](testcases/TC-minutes.md) — валидация поля **Минуты** (`T25–T48`)
+    - [`TC-from-address.md`](testcases/TC-from-address.md) — поле **Откуда** (`T49–T53`)
+    - [`TC-to-address.md`](testcases/TC-to-address.md) — поле **Куда** (`T55–T59`)
+    - [`TC-own-car-cost.md`](testcases/TC-own-car-cost.md) — расчёт стоимости/времени на своём авто (`T60–T65`)
+
+- 🐞 **Баг-репорты**
+  - 📁 [`bugreports/`](bugreports)
+  - Вкладка Google Sheets: [«Этап 4. Баг-репорты»](https://docs.google.com/spreadsheets/d/1ku3De2DZUbj_QlJKdQU7wEh0N3EIILJ8D6_vwkshmQU/edit?gid=454479584)
 
 ## Критические дефекты
 
