@@ -5,8 +5,8 @@
 ## Ссылки
 
 - Сервис: https://qa-routes.praktikum-services.ru/
-- Требования: https://docs.google.com/document/d/1tIs3KqK79vGR60EoGiDKLavvgsj0cjjrdSRK3AFdY6g/edit
-- Рабочая таблица (Google Sheets): https://docs.google.com/spreadsheets/d/1ku3De2DZUbj_QlJKdQU7wEh0N3EIILJ8D6_vwkshmQU/edit
+- Требования к сервису: https://docs.google.com/document/d/1tIs3KqK79vGR60EoGiDKLavvgsj0cjjrdSRK3AFdY6g/edit
+- Рабочая тестовая таблица (Google Sheets): https://docs.google.com/spreadsheets/d/1ku3De2DZUbj_QlJKdQU7wEh0N3EIILJ8D6_vwkshmQU/edit
 
 ## Артефакты
 
@@ -24,11 +24,11 @@
   - 📁 [`testcases/`](testcases)
   - Вкладка Google Sheets: «Этап 3. Тест-кейсы»
   - Примеры групп:
-    - `TC-hours.md` — валидация поля **Часы** (`T1–T24`)
-    - `TC-minutes.md` — валидация поля **Минуты** (`T25–T48`)
-    - `TC-from-address.md` — поле **Откуда** (`T49–T53`)
-    - `TC-to-address.md` — поле **Куда** (`T55–T59`)
-    - `TC-own-car-cost.md` — расчёт стоимости/времени на своём авто (`T60–T65`)
+    - [`TC-hours.md`](testcases/TC-hours.md) — валидация поля **Часы** (`T1–T24`)
+    - [`TC-minutes.md`](testcases/TC-minutes.md) — валидация поля **Минуты** (`T25–T48`)
+    - [`TC-from-address.md`](testcases/TC-from-address.md) — поле **Откуда** (`T49–T53`)
+    - [`TC-to-address.md`](testcases/TC-to-address.md) — поле **Куда** (`T55–T59`)
+    - [`TC-own-car-cost.md`](testcases/TC-own-car-cost.md) — расчёт стоимости/времени на своём авто (`T60–T65`)
 
 - 🐞 **Баг-репорты**
   - 📁 [`bugreports/`](bugreports)
@@ -55,5 +55,5 @@
 
 ## Автор
 
-Ельников Анатолий, когорта 53
+Anatoly Elnikov (когорта 53)
 
