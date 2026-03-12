@@ -64,5 +64,5 @@
 
 ## Автор
 
-Anatoly Elnikov (когорта 53)
+Anatoly Elnikov
 
