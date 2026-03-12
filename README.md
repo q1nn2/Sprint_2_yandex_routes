@@ -12,17 +12,17 @@
 
 - ✅ **Тест-анализ**
   - 📄 [`analysis/overview.md`](analysis/overview.md)
-  - Вкладка Google Sheets: «Этап 1. Тест-анализ»
+  - Вкладка Google Sheets: [«Этап 1. Тест-анализ»](https://docs.google.com/spreadsheets/d/1ku3De2DZUbj_QlJKdQU7wEh0N3EIILJ8D6_vwkshmQU/edit?gid=1610041137)
 
 - ✅ **КЭ и ГЗ**
   - 📄 [`ce-gz/time-fields.md`](ce-gz/time-fields.md)
   - 📄 [`ce-gz/address-fields.md`](ce-gz/address-fields.md)
   - 📄 [`ce-gz/routes-and-time-intervals.md`](ce-gz/routes-and-time-intervals.md)
-  - Вкладка Google Sheets: «Этап 2. КЭ и ГЗ»
+  - Вкладка Google Sheets: [«Этап 2. КЭ и ГЗ»](https://docs.google.com/spreadsheets/d/1ku3De2DZUbj_QlJKdQU7wEh0N3EIILJ8D6_vwkshmQU/edit?gid=1304990855)
 
 - ✅ **Тест-кейсы**
   - 📁 [`testcases/`](testcases)
-  - Вкладка Google Sheets: «Этап 3. Тест-кейсы»
+  - Вкладка Google Sheets: [«Этап 3. Тест-кейсы»](https://docs.google.com/spreadsheets/d/1ku3De2DZUbj_QlJKdQU7wEh0N3EIILJ8D6_vwkshmQU/edit?gid=1524919368)
   - Примеры групп:
     - [`TC-hours.md`](testcases/TC-hours.md) — валидация поля **Часы** (`T1–T24`)
     - [`TC-minutes.md`](testcases/TC-minutes.md) — валидация поля **Минуты** (`T25–T48`)
@@ -32,7 +32,7 @@
 
 - 🐞 **Баг-репорты**
   - 📁 [`bugreports/`](bugreports)
-  - Вкладка Google Sheets: «Этап 4. Баг-репорты»
+  - Вкладка Google Sheets: [«Этап 4. Баг-репорты»](https://docs.google.com/spreadsheets/d/1ku3De2DZUbj_QlJKdQU7wEh0N3EIILJ8D6_vwkshmQU/edit?gid=454479584)
   - Критические дефекты:
     - `BUG2`, `BUG3`, `BUG4`, `BUG6`, `BUG7`, `BUG11`, `BUG14`, `BUG15`, `BUG16`
 
